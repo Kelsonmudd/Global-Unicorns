@@ -1,0 +1,64 @@
+.background {
+  background: linear-gradient(90deg, #fffb00, #ff00f2)
+}
+h1 {
+  font-size: 100px;
+}
+h3 {
+  font-size: 60px;
+}
+button:hover {
+  animation-duration: 500ms;
+  border-width: 10px;
+  border-color: yellow;
+  color: white;
+}
+.courgette-font {
+  font-family: 'Courgette', cursive;
+}
+.fugaz-one-font {
+  font-family: 'Fugaz One', cursive;
+}
+.center-text {
+  text-align: center;
+}
+.unicorn-logo {
+  border-radius: 50%;
+  width: 600px;
+}
+.big-button {
+  width: 300px;
+  height: 150px;
+  font-size: 50px;
+  font-family: 'Courgette', cursive;
+  font-weight: bold;
+  background-color: #00ffd5;
+  text-align: center;
+  border-radius: 20px;
+}
+.profile-image {
+  width: 300px;
+  border-radius: 50%
+}
+.profile-formating {
+  position: relative;
+  top: 0px;
+  border-color: #00ffd5;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 20px;
+  overflow: auto;
+}
+.profile-text {
+  font-family: 'Fugaz One', cursive;
+  font-size: 25px;
+}
+#cta-font{
+  font-size: 40px;
+  font-weight: bold;
+}
+#cta {
+  position: relative;
+  top: 125px;
+  text-align: center;
+}
